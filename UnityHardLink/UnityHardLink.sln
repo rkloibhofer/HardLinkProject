@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityHardLink.CSharp", "UnityHardLink.CSharp.csproj", "{724F19B7-200B-661C-EE2B-040E8051BF61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724F19B7-200B-661C-EE2B-040E8051BF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724F19B7-200B-661C-EE2B-040E8051BF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724F19B7-200B-661C-EE2B-040E8051BF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724F19B7-200B-661C-EE2B-040E8051BF61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
